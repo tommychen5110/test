@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/tommychen5110/test/compare/v1.1.0...v1.1.1) (2023-03-09)
+
+
+### Bug Fixes
+
+* **client:** remove unnecessary console.log ([582d7e9](https://github.com/tommychen5110/test/commit/582d7e982f09325f786ba4093e4e66710317be2e))
+* remove unnecessary console.log ([706e354](https://github.com/tommychen5110/test/commit/706e354f537755a9baf3ccf4a2afa94668c77e56))
+
 ## [1.1.0](https://github.com/tommychen5110/test/compare/v1.0.5...v1.1.0) (2023-03-09)
 
 
