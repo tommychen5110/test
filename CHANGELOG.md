@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/tommychen5110/test/compare/v1.0.5...v1.1.0) (2023-03-09)
+
+
+### Features
+
+* remove unnecessary console.log ([810f3b5](https://github.com/tommychen5110/test/commit/810f3b5540923cde0fa64fc1ccbf5cf1df387f97))
+
 ### [1.0.5](https://github.com/tommychen5110/test/compare/v1.0.4...v1.0.5) (2023-03-09)
 
 ### [1.0.4](https://github.com/tommychen5110/test/compare/v1.0.3...v1.0.4) (2023-03-09)
