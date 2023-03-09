@@ -6,6 +6,7 @@ async function insertLink({ title, url }) {
 }
 
 Meteor.startup(async () => {
+  console.log('Just for test');
   // If the Links collection is empty, add some data.
   if ((await LinksCollection.find().countAsync()) === 0) {
     await insertLink({
